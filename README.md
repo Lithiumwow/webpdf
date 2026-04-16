@@ -284,10 +284,5 @@ Pull requests welcome. Please open an issue first for major changes.
 - Drag-and-drop UI positioning (planned)
 - Advanced PDF security features (planned)
 
-## 📞 Support
 
-For issues, questions, or suggestions, please open a GitHub issue.
 
----
-
-**Built with ❤️ as a complete replacement for RevPDF Editor**
